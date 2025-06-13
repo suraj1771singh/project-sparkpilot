@@ -1,0 +1,14 @@
+hour,bcmapp_record_count,bcmapp_processing_rate,crmapp_record_count,crmapp_processing_rate,omsapp_record_count,omsapp_processing_rate,armapp_record_count,armapp_processing_rate,cpq1app_record_count,cpq1app_processing_rate,cpq2app_record_count,cpq2app_processing_rate,cpq3app_record_count,cpq3app_processing_rate,cpq4app_record_count,cpq4app_processing_rate,odoapp_record_count,odoapp_processing_rate,asmapp_record_count,asmapp_processing_rate,tc_record_count,tc_processing_rate
+0-1,0,0,0,0,0,0,107,7133,0,0,0,0,0,0,0,0,66,3900,6,337,0,0
+1-2,0,0,0,0,0,0,13,1300,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2-3,0,0,0,0,0,0,30,2500,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5-6,16,443,0,0,0,0,23220,15286,0,0,0,0,0,0,0,0,0,0,284,3262,0,0
+6-7,0,0,0,0,0,0,184,3976,0,0,0,0,0,0,0,0,8,888,0,0,0,0
+8-9,0,0,0,0,0,0,8,888,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10-11,0,0,0,0,0,0,4,444,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11-12,0,0,0,0,0,0,154,1950,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15-16,0,0,0,0,0,0,1502,6389,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16-17,0,0,0,0,0,0,27,1250,0,0,0,0,0,0,0,0,8,274,0,0,0,0
+17-18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,500,0,0,0,0
+18-19,0,0,0,0,0,0,59,4538,0,0,0,0,0,0,0,0,4,363,0,0,0,0
+21-22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,166,0,0
